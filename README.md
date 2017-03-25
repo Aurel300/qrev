@@ -1,15 +1,15 @@
-##HackCity '17##
+## HackCity '17 ##
 
 Reverse QR code thing.
 
-###Name ideas###
+### Name ideas ###
 
  - rev.tech
  - **qrev.tech**
  - qrwallet
  - instapage
 
-###TODO###
+### TODO ###
 
  - backend
    - DB scheme
@@ -39,9 +39,9 @@ Reverse QR code thing.
    - get domain(s) - guest / member area on separate domains???
    - host docker container
 
-###Challenges###
+### Challenges ###
 
-####Findmypast####
+#### Findmypast ####
 
 The Findmypast challenge is to build a project using any part of the technology stack used by the company, which includes:
 
@@ -56,19 +56,19 @@ We will be evaluating projects based on the following categories:
  2. best built by the book project
  3. least amount of code used to deliver the most amount of features.
 
-####AIGaming.com####
+#### AIGaming.com ####
 
 Bot to win the most money in poker.
 
-####Accenture####
+#### Accenture ####
 
 Best AI hack – chatbots, **computer vision**, speech processing, natural language processing or anything else in the domain.
 
-####.tech Domains####
+#### .tech Domains ####
 
 **Best interactive website using .tech.**
 
-####City Tech society####
+#### City Tech society ####
 
  - Best No User Interface hack
  - **Best Hack incorporating use of a camera**
